@@ -58,4 +58,4 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
     }
 };
 
-module.exports.tags = ['metavault'];
+module.exports.tags = ['metavault', 'canonical'];
